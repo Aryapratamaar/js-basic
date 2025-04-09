@@ -105,6 +105,8 @@ Find the index of `"Orange"` in the `fruits` array.
 
 ```javascript
 // your code here
+let index = fruits.indexOf("Orange");
+console.log(index);
 ```
 
 ---
