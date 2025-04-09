@@ -92,11 +92,12 @@ Print `student`'s city.
 const student = {
     name : "Alice",
     grade : 90,
-    addres
-    city : "Jakarta",
-    country : "Indonesia"
+    address: {
+        city : "Jakarta",
+        country : "Indonesia"
+    }
 }
-console.log(student.city)
+console.log(student.address.city)
 ```
 
 ---
