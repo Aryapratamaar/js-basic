@@ -34,6 +34,8 @@ Use `console.log` to display:
 
 ```javascript
 // your code here
+console.log(person.name);
+console.log(person.job);
 ```
 
 ---
