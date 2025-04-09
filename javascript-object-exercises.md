@@ -112,7 +112,7 @@ Then call it.
 
 ```javascript
 // your code here
-const person - {
+const person = {
     name : "John",
 };
 person.greet = function () {
