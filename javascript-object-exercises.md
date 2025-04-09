@@ -68,6 +68,7 @@ Remove the `job` property from the `person` object.
 
 ```javascript
 // your code here
+delete person.job;
 ```
 
 ---
