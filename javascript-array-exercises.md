@@ -59,6 +59,7 @@ Remove the last element from `fruits`.
 
 ```javascript
 // your code here
+fruits.pop();
 ```
 
 ---
