@@ -94,6 +94,7 @@ Expected output → `true` or `false`
 
 ```javascript
 // your code here
+fruits.includes("Banana");
 ```
 
 ---
