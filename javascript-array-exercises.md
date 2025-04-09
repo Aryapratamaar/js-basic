@@ -15,6 +15,7 @@ Create an array called `fruits` that contains:
 
 ```javascript
 // your code here
+const fruits = ["Apple","Banana","Orange"];
 ```
 
 ---
